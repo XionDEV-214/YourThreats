@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.eisiadev.yourthreats.mixin",
+  "plugin": "com.eisiadev.yourthreats.mixin.YourThreatsMixinPlugin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "yourthreats.refmap.json",
+  "mixins": [
+    "AttributesMixin",
+    "MobCategoryMixin",
+    "NaturalSpawnerMixin",
+    "SpawnStateInvoker"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

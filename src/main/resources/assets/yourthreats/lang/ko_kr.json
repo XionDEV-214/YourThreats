@@ -1,0 +1,10 @@
+{
+  "yourthreats.command.current": "현재 위협 수치: %s",
+  "yourthreats.command.changed": "위협 수치가 %s(으)로 변경되었습니다",
+  "yourthreats.command.unknown": "알 수 없는 위협 수치: %s",
+  "yourthreats.command.stats": "체력 %s | 공격력 %s | 방어력 %s | 방어 강도 %s | 드롭 확률 %s | 드롭 배수 %s | 몹 리젠 %s | 받는 피해 감소 %s",
+  "yourthreats.hud.label": "위협: ",
+  "yourthreats.options.threat": "위협 수치",
+  "yourthreats.options.threat.tooltip": "난이도와 별개인 또 하나의 축입니다. 모든 적대적 몹에 즉시 적용됩니다.\n클릭: 다음 단계 / Shift+클릭: 이전 단계",
+  "yourthreats.options.threat.no_permission": "OP만 변경할 수 있습니다."
+}

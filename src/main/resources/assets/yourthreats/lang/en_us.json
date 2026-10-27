@@ -1,0 +1,10 @@
+{
+  "yourthreats.command.current": "Current threat level: %s",
+  "yourthreats.command.changed": "The threat level has been changed to %s",
+  "yourthreats.command.unknown": "Unknown threat level: %s",
+  "yourthreats.command.stats": "Health %s | Damage %s | Armor %s | Toughness %s | Drop chance %s | Drop amount %s | Spawns %s | Damage reduction %s",
+  "yourthreats.hud.label": "Threat: ",
+  "yourthreats.options.threat": "Threat",
+  "yourthreats.options.threat.tooltip": "Another axis of difficulty. Affects all hostile mobs instantly.\nClick: next level / Shift+Click: previous level",
+  "yourthreats.options.threat.no_permission": "Only operators can change this."
+}
